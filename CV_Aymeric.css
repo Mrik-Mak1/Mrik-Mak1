@@ -1,0 +1,1145 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 7282px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-enable-deep-linking: true;
+}
+#accueil {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Aymeric_Maquin {
+	left: 178px;
+	top: 218px;
+	position: absolute;
+	overflow: visible;
+	width: 1253px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+}
+#Licence_Professionnelle_Concep {
+	left: 349px;
+	top: 568px;
+	position: absolute;
+	overflow: visible;
+	width: 1397px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,255,255,1);
+}
+#Prsentation {
+	left: 751.5px;
+	top: 1112px;
+	position: absolute;
+	overflow: visible;
+	width: 419px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(113,113,115,1);
+}
+#Sans-titre---2 {
+	position: absolute;
+	width: 361px;
+	height: 361px;
+	left: 99px;
+	top: 1257px;
+	overflow: visible;
+}
+#Je_me_prsente_Aymeric_MAQUIN_3 {
+	left: 518px;
+	top: 1257px;
+	position: absolute;
+	overflow: visible;
+	width: 1305px;
+	white-space: nowrap;
+	line-height: 42px;
+	margin-top: -8.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(113,113,115,1);
+}
+#Icon_feather-mail {
+	position: absolute;
+	width: 30px;
+	height: 24px;
+	left: 102px;
+	top: 1697px;
+	overflow: visible;
+}
+#Trac_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_1 {
+	overflow: visible;
+	position: absolute;
+	width: 33px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_2 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_2 {
+	overflow: visible;
+	position: absolute;
+	width: 34.178px;
+	height: 14.089px;
+	left: 0px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Aymericmaquinlapostenet_ {
+	left: 175px;
+	top: 1697px;
+	position: absolute;
+	overflow: hidden;
+	width: 275px;
+	height: 24px;
+	line-height: 34px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(113,113,115,1);
+}
+#Icon_awesome-phone {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-phone {
+	overflow: visible;
+	position: absolute;
+	width: 36.001px;
+	height: 36.001px;
+	left: 99px;
+	top: 1764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID06_-_08_-_92_-_82_46__ {
+	left: 175px;
+	top: 1764px;
+	position: absolute;
+	overflow: hidden;
+	width: 275px;
+	height: 24px;
+	line-height: 34px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(113,113,115,1);
+}
+#Icon_feather-at-sign {
+	position: absolute;
+	width: 30.001px;
+	height: 30.001px;
+	left: 101.999px;
+	top: 1846px;
+	overflow: visible;
+}
+#Trac_3 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_3 {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 9.001px;
+	top: 9px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trac_4 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_4 {
+	overflow: visible;
+	position: absolute;
+	width: 33.02px;
+	height: 33.022px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#aymeric-maquinfrindexhtml_ {
+	left: 175px;
+	top: 1849px;
+	position: absolute;
+	overflow: hidden;
+	width: 284px;
+	height: 24px;
+	line-height: 34px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(113,113,115,1);
+}
+#Comptences {
+	left: 728.5px;
+	top: 1980px;
+	position: absolute;
+	overflow: visible;
+	width: 465px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(113,113,115,1);
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 127px;
+	left: 0px;
+	top: 0px;
+}
+#COMPETENCES {
+	left: 453px;
+	top: 43.5px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(113,113,115,1);
+}
+#FORMATIONS {
+	left: 824px;
+	top: 43.5px;
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(113,113,115,1);
+}
+#CENTRES_INTERETS {
+	left: 1504px;
+	top: 43.5px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(113,113,115,1);
+}
+#EXPERIENCES {
+	left: 1161px;
+	top: 43.5px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(113,113,115,1);
+}
+#PRESENTATION {
+	left: 84px;
+	top: 43.5px;
+	position: absolute;
+	overflow: visible;
+	width: 259px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(113,113,115,1);
+}
+#Education {
+	left: 841.5px;
+	top: 2458px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(113,113,115,1);
+}
+#Commerce {
+	left: 829.5px;
+	top: 2755px;
+	position: absolute;
+	overflow: visible;
+	width: 263px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(113,113,115,1);
+}
+#Informatique_en_cours_de_dvelo {
+	left: 624.5px;
+	top: 2126px;
+	position: absolute;
+	overflow: visible;
+	width: 673px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(113,113,115,1);
+}
+#Icon_awesome-html5 {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-html5 {
+	overflow: visible;
+	position: absolute;
+	width: 100px;
+	height: 116.667px;
+	left: 365px;
+	top: 2237px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-css3-alt {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-css3-alt {
+	overflow: visible;
+	position: absolute;
+	width: 100px;
+	height: 115.118px;
+	left: 542.669px;
+	top: 2237.627px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-wordpress {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-wordpress {
+	overflow: visible;
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 720.157px;
+	top: 2245.749px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-mysql {
+	fill: rgba(0,0,0,1);
+}
+.Icon_simple-mysql {
+	overflow: visible;
+	position: absolute;
+	width: 124.441px;
+	height: 84.5px;
+	left: 898px;
+	top: 2253px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-adobexd {
+	fill: rgba(157,28,167,1);
+}
+.Icon_simple-adobexd {
+	overflow: visible;
+	position: absolute;
+	width: 100px;
+	height: 97.5px;
+	left: 1100px;
+	top: 2247px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-adobeillustrator {
+	fill: rgba(109,65,20,1);
+}
+.Icon_simple-adobeillustrator {
+	overflow: visible;
+	position: absolute;
+	width: 100px;
+	height: 97.5px;
+	left: 1278px;
+	top: 2247px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-adobephotoshop {
+	fill: rgba(0,70,139,1);
+}
+.Icon_simple-adobephotoshop {
+	overflow: visible;
+	position: absolute;
+	width: 100px;
+	height: 97.5px;
+	left: 1456px;
+	top: 2247px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#HTML5 {
+	left: 381.5px;
+	top: 2370px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(113,113,115,1);
+}
+#CSS3 {
+	left: 567.5px;
+	top: 2370px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(113,113,115,1);
+}
+#CMS {
+	left: 748.5px;
+	top: 2370px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(113,113,115,1);
+}
+#Base_de_donnes {
+	left: 878.5px;
+	top: 2370px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(113,113,115,1);
+}
+#Adobe_Xd {
+	left: 1104.5px;
+	top: 2370px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(113,113,115,1);
+}
+#Adobe_Illustrator {
+	left: 1282.5px;
+	top: 2358px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(113,113,115,1);
+}
+#Adobe_Photoshop {
+	left: 1455.5px;
+	top: 2358px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(113,113,115,1);
+}
+#Rgles_de_vie_collective_Rgles_ {
+	left: 650px;
+	top: 2547px;
+	position: absolute;
+	overflow: visible;
+	width: 621px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(113,113,115,1);
+}
+#Management_Analyser_des_tablea {
+	left: 567px;
+	top: 2846px;
+	position: absolute;
+	overflow: visible;
+	width: 788px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(113,113,115,1);
+}
+#Formations {
+	left: 782.5px;
+	top: 3189px;
+	position: absolute;
+	overflow: visible;
+	width: 373px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(113,113,115,1);
+}
+#Logo-eisine {
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	left: 207px;
+	top: 3331px;
+	overflow: visible;
+}
+#mipJgOaP {
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	left: 207px;
+	top: 3605px;
+	overflow: visible;
+}
+#default {
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	left: 207px;
+	top: 4153px;
+	overflow: visible;
+}
+#Licence_Professionnelle_-_Mtie {
+	left: 811.5px;
+	top: 3368px;
+	position: absolute;
+	overflow: visible;
+	width: 913px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#ID20202021 {
+	left: 449.5px;
+	top: 3391px;
+	position: absolute;
+	overflow: visible;
+	width: 310px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#ID20122014 {
+	left: 449.5px;
+	top: 3665px;
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#ID20062008 {
+	left: 449.5px;
+	top: 4213px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#mipJgOaP_bu {
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	left: 207px;
+	top: 3879px;
+	overflow: visible;
+}
+#ID2012 {
+	left: 449.5px;
+	top: 3939px;
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#Manager_dUnivers_Marchand_BAC2 {
+	left: 803.5px;
+	top: 3642px;
+	position: absolute;
+	overflow: visible;
+	width: 858px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#Responsable_de_Rayon_Niveau_IV {
+	left: 800.5px;
+	top: 3916px;
+	position: absolute;
+	overflow: visible;
+	width: 433px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#BAC_PROFESSIONNEL_VENTE_Obtenu {
+	left: 803.5px;
+	top: 4190px;
+	position: absolute;
+	overflow: visible;
+	width: 556px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#Expriences {
+	left: 757.5px;
+	top: 4380px;
+	position: absolute;
+	overflow: visible;
+	width: 407px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(113,113,115,1);
+}
+#tlchargement {
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	left: 356px;
+	top: 4560px;
+	overflow: visible;
+}
+#Lyce_Charles_de_Gonzague_Assis {
+	left: 1271.5px;
+	top: 4596px;
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#ID20192020 {
+	left: 871.5px;
+	top: 4619px;
+	position: absolute;
+	overflow: visible;
+	width: 312px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#raucourt_0 {
+	position: absolute;
+	width: 190px;
+	height: 190px;
+	left: 356px;
+	top: 4826px;
+	overflow: visible;
+}
+#Collge_Raucourt_Assistant_dEdu {
+	left: 1271.5px;
+	top: 4863px;
+	position: absolute;
+	overflow: visible;
+	width: 332px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#ID20162019 {
+	left: 873.5px;
+	top: 4886px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#Enseigne_Au_Fil_des_Marques_Re {
+	left: 1271.5px;
+	top: 5102px;
+	position: absolute;
+	overflow: visible;
+	width: 541px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#logo {
+	position: absolute;
+	width: 683px;
+	height: 139px;
+	left: 109px;
+	top: 5092px;
+	overflow: visible;
+}
+#ID2012-2015 {
+	left: 883.5px;
+	top: 5126px;
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#ID2012_b {
+	left: 960.5px;
+	top: 5366px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#Brico-Leclerc_Responsable_de_r {
+	left: 1271.5px;
+	top: 5341px;
+	position: absolute;
+	overflow: visible;
+	width: 347px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#tlchargement_1 {
+	position: absolute;
+	width: 351px;
+	height: 208px;
+	left: 276px;
+	top: 5307px;
+	overflow: visible;
+}
+#DECATHLON_Vendeur_Barberey-St- {
+	left: 1271.5px;
+	top: 5580px;
+	position: absolute;
+	overflow: visible;
+	width: 347px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#decathlon {
+	position: absolute;
+	width: 390px;
+	height: 176px;
+	left: 257px;
+	top: 5551px;
+	overflow: visible;
+}
+#ID2012_ce {
+	left: 960.5px;
+	top: 5606px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#logo-Levis-1 {
+	position: absolute;
+	width: 201px;
+	height: 194px;
+	left: 350px;
+	top: 5763px;
+	overflow: visible;
+}
+#ID2011 {
+	left: 962.5px;
+	top: 5833px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#Levi_Strauss_Vendeur_Pont-Sain {
+	left: 1271.5px;
+	top: 5802px;
+	position: absolute;
+	overflow: visible;
+	width: 316px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#TOPO_08 {
+	left: 303px;
+	top: 5993px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(113,113,115,1);
+}
+#ID2011_cj {
+	left: 960.5px;
+	top: 5999px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#TOPO_08_Gomtre-Topographe_Char {
+	left: 1271.5px;
+	top: 5976px;
+	position: absolute;
+	overflow: visible;
+	width: 354px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#ID2020-12-14_2 {
+	position: absolute;
+	width: 318px;
+	height: 87px;
+	left: 291px;
+	top: 6151px;
+	overflow: visible;
+}
+#ID2009 {
+	left: 952.5px;
+	top: 6165px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(113,113,115,1);
+}
+#Service_municipal_Employ_munic {
+	left: 1271.5px;
+	top: 6150px;
+	position: absolute;
+	overflow: visible;
+	width: 338px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(113,113,115,1);
+}
+#Centres_dintrts {
+	left: 730.5px;
+	top: 6371px;
+	position: absolute;
+	overflow: visible;
+	width: 587px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(113,113,115,1);
+}
+#f44cd61023f0 {
+	position: absolute;
+	width: 260px;
+	height: 261px;
+	left: 322px;
+	top: 6505px;
+	overflow: visible;
+}
+#manette1 {
+	position: absolute;
+	width: 320px;
+	height: 210px;
+	left: 867px;
+	top: 6530px;
+	overflow: visible;
+}
+#unnamed {
+	position: absolute;
+	width: 292px;
+	height: 230px;
+	left: 1472px;
+	top: 6521px;
+	overflow: visible;
+}
+#Bricolage_Rnovation_Plomberie_ {
+	left: 153px;
+	top: 6802px;
+	position: absolute;
+	overflow: visible;
+	width: 597px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(113,113,115,1);
+}
+#Playstation_Pc_World_of_Warcra {
+	left: 729px;
+	top: 6802px;
+	position: absolute;
+	overflow: visible;
+	width: 597px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(113,113,115,1);
+}
+#Multimdia_Musiques_Vidos_Actus {
+	left: 1324px;
+	top: 6808px;
+	position: absolute;
+	overflow: visible;
+	width: 597px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(113,113,115,1);
+}
